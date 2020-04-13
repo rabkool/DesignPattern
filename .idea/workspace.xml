@@ -23,11 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dc99117-c546-4f1a-a3a7-4347e1d0091c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simolefactory/a/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simolefactory/b/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simolefactory/simolefactory.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/META-INF/DesignPattern.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/simolefactory/b" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/simolefactory" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,7 +73,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/interfaceisolation/positive/Animal.java" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/singleResponsibilityPrinciple/positive" />
   </component>
@@ -204,9 +200,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586758598159" />
-    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1586755037617">
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1586764096461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586764096461" />
     <state x="740" y="273" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586755037617" />
     <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1586758818445">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -228,10 +225,10 @@
     </state>
     <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586758818445" />
     <state width="1876" height="276" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586757925688" />
-    <state x="461" y="150" key="SettingsEditor" timestamp="1586759745601">
+    <state x="461" y="150" key="SettingsEditor" timestamp="1586763412481">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="150" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586759745601" />
+    <state x="461" y="150" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586763412481" />
     <state x="461" y="150" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586758554020" />
   </component>
   <component name="masterDetails">
